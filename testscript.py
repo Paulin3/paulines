@@ -4,3 +4,4 @@ import matplotlib as plt
 x = 45
 y = 6
 z = x+y
+my_variable=x-z
